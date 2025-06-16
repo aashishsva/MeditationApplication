@@ -4,7 +4,7 @@
 
 ## Demo
 
-[![Serenity Views - Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-teal?style=for-the-badge)](https://ash-dot-coder.github.io/Project-MeditationApplication/)
+[![Serenity Views - Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-teal?style=for-the-badge)](https://aashishsva.github.io/MeditationApplication/)
 
 
 ## Demo-View
@@ -47,11 +47,3 @@
 - **Locomotive Scroll**: For smooth scrolling effects.
 - **GSAP**: For animations and transitions.
 
-## Installation
-
-To get started with **Serenity Views** locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Ash-dot-coder/Project-MeditationApplication.git
-   ```
